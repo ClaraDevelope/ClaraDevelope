@@ -9,7 +9,6 @@ Here my features projects:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraDevelope&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ClaraDevelope&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClaraDevelope&show_icons=true&theme=radical)
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![React](https://img.shields.io/badge/Framework-React-blue)
