@@ -8,7 +8,6 @@ Here my features projects:
 ![gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lzMmE3ajJyNXh0dTVqb2txa2RqdTRremlxaXhkNWZ6ZzByam5wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraDevelope&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ClaraDevelope&theme=radical)
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![React](https://img.shields.io/badge/Framework-React-blue)
