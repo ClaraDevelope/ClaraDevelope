@@ -46,7 +46,7 @@
 ## 📊 Mi Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaraDevelope&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ClaraDevelope&theme=react&hide_border=true&area=true" alt="GitHub Activity Graph" />
   
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraDevelope&layout=compact&theme=radical" alt="Top Languages" />
