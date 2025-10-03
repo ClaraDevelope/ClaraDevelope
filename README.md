@@ -2,7 +2,6 @@
   <a href="https://portfolioclaramanzano.vercel.app/">
     <h1> Hola, soy Clara Manzano Corona</h1>
   </a>
-  ![gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lzMmE3ajJyNXh0dTVqb2txa2RqdTRremlxaXhkNWZ6ZzByam5wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif)
   
   <h3>Full-Stack Developer | Enfoque Sistémico en Desarrollo Web.</h3>
   
@@ -10,6 +9,8 @@
   
   <p>Especializada en convertir necesidades identificadas en soluciones técnicas robustas y escalables, con un compromiso firme por la calidad y la accesibilidad.</p>
 </div>
+
+![gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lzMmE3ajJyNXh0dTVqb2txa2RqdTRremlxaXhkNWZ6ZzByam5wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif)
 
 ---
 
