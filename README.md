@@ -5,7 +5,7 @@
   
   <h3>Full-Stack Developer | Enfoque Sistémico en Desarrollo Web.</h3>
   
-  <p>Mi trayectoria no convencional en sectores sociales y de gestión ha enriquecido mi visión en programación. Abordo el desarrollo web priorizando la **eficiencia en los procesos** y la **sostenibilidad del software**.</p>
+  <p>Mi trayectoria no convencional en sectores sociales y de gestión ha enriquecido mi visión en programación. Abordo el desarrollo web priorizando la eficiencia en los procesos y la sostenibilidad del software.</p>
   
   <p>Especializada en convertir necesidades identificadas en soluciones técnicas robustas y escalables, con un compromiso firme por la calidad y la accesibilidad.</p>
 </div>
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img-shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <br>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -32,7 +32,7 @@
 ## 💡 Áreas de Valor y Enfoque Profesional
 
 * **Metodología y Procesos:** Interés profundo en la aplicación de metodologías para garantizar el desarrollo eficiente y la alineación con los objetivos del proyecto.
-* **Calidad del Software:** Foco en áreas como la **Accesibilidad**, la **Gestión de Proyectos** y el cumplimiento de estándares de calidad.
+* **Calidad del Software:** Foco en áreas como la Accesibilidad, la Gestión de Proyectos y el cumplimiento de estándares de calidad.
 * **Adaptabilidad:** Experiencia en la identificación y adaptación de soluciones a diversas necesidades.
 
 ---
@@ -46,7 +46,7 @@
 ## 📊 Mi Actividad en GitHub
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1luYpYn0qZ1m64b/giphy.gif" alt="Coding GIF" width="300"/>
+  <img src="https://raw.githubusercontent.com/Micaelli/Micaelli/master/assets/code.png" alt="Code Snippet" width="300"/>
   
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraDevelope&layout=compact&theme=radical" alt="Top Languages" />
