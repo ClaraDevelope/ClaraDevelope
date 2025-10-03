@@ -3,18 +3,23 @@
     <h1> Hola, soy Clara Manzano Corona</h1>
   </a>
   
-  <h3>Full-Stack Developer | Enfoque Sistémico en Desarrollo Web.</h3>
+  <h3>Full-Stack Developer | MERN </h3>
   <img 
-  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lzMmE3ajJyNXh0dTVqb2txa2RqdTRremlxaXhkNWZ6ZzByam5wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" 
-  alt="gif de bienvenida" 
-  width="200"
-  style="border-radius: 50%"/>
+    src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lzMmE3ajJyNXh0dTVqb2txa2RqdTRremlxaXhkNWZ6ZzByam5wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" 
+    alt="gif de bienvenida" 
+    width="200"
+    style="border-radius: 50%"/>
   
   <br>
   
-  <p>Mi trayectoria no convencional en sectores sociales y de gestión ha enriquecido mi visión en programación. Abordo el desarrollo web priorizando la eficiencia en los procesos y la sostenibilidad del software.</p>
+  <p>Hello! I'm Clara, a full-stack developer on a mission to create impactful web applications. I thrive on problem-solving and enjoy exploring the many paths that programming offers. My projects not only showcase my technical skills but also my dedication to building community connections. I'm excited to share my journey with you—let's collaborate and innovate together!</p>
   
-  <p>Especializada en convertir necesidades identificadas en soluciones técnicas robustas y escalables, con un compromiso firme por la calidad y la accesibilidad.</p>
+  <p>Soy Clara, desarrolladora full-stack con interés en crear aplicaciones web con impacto real. Me gusta enfrentarme a retos técnicos y descubrir las distintas formas que ofrece la programación para resolverlos.</p>
+
+  <p>Mis proyectos son a la vez práctica y camino de aprendizaje: algunos muestran lo que ya sé hacer, otros reflejan el proceso de seguir aprendiendo. En todos hay dedicación, constancia y la curiosidad de mejorar cada día.</p>
+
+  <p>Este GitHub es mi espacio para compartir ese recorrido. Bienvenido/a a echar un vistazo, colaborar o simplemente curiosear lo que voy construyendo.</p>
+
 </div>
 
 
