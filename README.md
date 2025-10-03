@@ -46,7 +46,7 @@
 ## 📊 Mi Actividad en GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Micaelli/Micaelli/master/assets/code.png" alt="Code Snippet" width="300"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClaraDevelope&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraDevelope&layout=compact&theme=radical" alt="Top Languages" />
@@ -54,4 +54,4 @@
 
 ### 🔗 Conexión
 
-Estoy disponible para discutir colaboraciones y nuevos desafíos técnicos y laborales.
+Estoy disponible para colaboraciones y nuevos desafíos técnicos y laborales.
