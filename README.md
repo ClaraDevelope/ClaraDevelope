@@ -10,6 +10,8 @@
   width="200"
   style="border-radius: 50%"/>
   
+  <br>
+  
   <p>Mi trayectoria no convencional en sectores sociales y de gestión ha enriquecido mi visión en programación. Abordo el desarrollo web priorizando la eficiencia en los procesos y la sostenibilidad del software.</p>
   
   <p>Especializada en convertir necesidades identificadas en soluciones técnicas robustas y escalables, con un compromiso firme por la calidad y la accesibilidad.</p>
@@ -33,13 +35,6 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 </div>
 
----
-
-## 💡 Áreas de Valor y Enfoque Profesional
-
-* **Metodología y Procesos:** Interés profundo en la aplicación de metodologías para garantizar el desarrollo eficiente y la alineación con los objetivos del proyecto.
-* **Calidad del Software:** Foco en áreas como la Accesibilidad, la Gestión de Proyectos y el cumplimiento de estándares de calidad.
-* **Adaptabilidad:** Experiencia en la identificación y adaptación de soluciones a diversas necesidades.
 
 ---
 
