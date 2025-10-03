@@ -1,7 +1,8 @@
 <div align="center">
   <a href="https://portfolioclaramanzano.vercel.app/">
-    <h1>👋 Hola, soy Clara Manzano Corona</h1>
+    <h1> Hola, soy Clara Manzano Corona</h1>
   </a>
+  ![gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lzMmE3ajJyNXh0dTVqb2txa2RqdTRremlxaXhkNWZ6ZzByam5wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif)
   
   <h3>Full-Stack Developer | Enfoque Sistémico en Desarrollo Web.</h3>
   
@@ -46,9 +47,6 @@
 ## 📊 Mi Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ClaraDevelope&theme=react&hide_border=true&area=true" alt="GitHub Activity Graph" />
-  
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaraDevelope&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
