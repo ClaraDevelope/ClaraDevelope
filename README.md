@@ -4,13 +4,16 @@
   </a>
   
   <h3>Full-Stack Developer | Enfoque Sistémico en Desarrollo Web.</h3>
+  <img 
+  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lzMmE3ajJyNXh0dTVqb2txa2RqdTRremlxaXhkNWZ6ZzByam5wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" 
+  alt="gif de bienvenida" 
+  width="200" />
   
   <p>Mi trayectoria no convencional en sectores sociales y de gestión ha enriquecido mi visión en programación. Abordo el desarrollo web priorizando la eficiencia en los procesos y la sostenibilidad del software.</p>
   
   <p>Especializada en convertir necesidades identificadas en soluciones técnicas robustas y escalables, con un compromiso firme por la calidad y la accesibilidad.</p>
 </div>
 
-![gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lzMmE3ajJyNXh0dTVqb2txa2RqdTRremlxaXhkNWZ6ZzByam5wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif)
 
 ---
 
