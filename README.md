@@ -11,7 +11,7 @@
     style="border-radius: 50%"/>
   
   <br>
-  <span>ENGLISH</span>
+  <span style="color:#4CAF50;"><strong>ENGLISH</strong></span>
   <p>Hello! I'm Clara, a full-stack developer on a mission to create impactful web applications.</p>
   
   <p>I thrive on problem-solving and enjoy exploring the many paths that programming offers.</p> 
@@ -19,7 +19,7 @@
   <p>My projects not only showcase my technical skills but also my dedication to building community connections. I'm excited to share my journey with you—let's collaborate and innovate together!</p>
 
 
-  <span>SPANISH</span>
+  <span style="color:#e63946;"><strong>SPANISH</strong></span>
   <p>Soy Clara, desarrolladora full-stack con interés en crear aplicaciones web con impacto real. Me gusta enfrentarme a retos técnicos y descubrir las distintas formas que ofrece la programación para resolverlos.</p>
 
   <p>Mis proyectos son a la vez práctica y camino de aprendizaje: algunos muestran lo que ya sé hacer, otros reflejan el proceso de seguir aprendiendo. En todos hay dedicación, constancia y la curiosidad de mejorar cada día.</p>
