@@ -8,7 +8,7 @@
   src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lzMmE3ajJyNXh0dTVqb2txa2RqdTRremlxaXhkNWZ6ZzByam5wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" 
   alt="gif de bienvenida" 
   width="200"
-  style="border-radius: 50% ;/>
+  style="border-radius: 50%"/>
   
   <p>Mi trayectoria no convencional en sectores sociales y de gestión ha enriquecido mi visión en programación. Abordo el desarrollo web priorizando la eficiencia en los procesos y la sostenibilidad del software.</p>
   
