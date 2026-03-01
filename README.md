@@ -1,35 +1,36 @@
-<div align="center">
-  <a href="https://portfolioclaramanzano.vercel.app/">
-    <h1> Hola, soy Clara Manzano Corona</h1>
-  </a>
-  
-  <h3>Full-Stack Developer | MERN </h3>
-  <img 
-    src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lzMmE3ajJyNXh0dTVqb2txa2RqdTRremlxaXhkNWZ6ZzByam5wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" 
-    alt="gif de bienvenida" 
-    width="200"
-    style="border-radius: 50%"/>
-  
-  <br>
-  <span style="color:#4CAF50;"><strong>ENGLISH</strong></span>
-  <p>Hello! I'm Clara, a full-stack developer on a mission to create impactful web applications.</p>
-  
-  <p>I thrive on problem-solving and enjoy exploring the many paths that programming offers.</p> 
-  
-  <p>My projects not only showcase my technical skills but also my dedication to building community connections. I'm excited to share my journey with you—let's collaborate and innovate together!</p>
+## 🏢 Current Work (Production Environment)
 
+Actualmente desarrollo y mantengo aplicaciones internas críticas en el sector de ingeniería de telecomunicaciones.
 
-  <span style="color:#e63946;"><strong>SPANISH</strong></span>
-  <p>Soy Clara, desarrolladora full-stack con interés en crear aplicaciones web con impacto real. Me gusta enfrentarme a retos técnicos y descubrir las distintas formas que ofrece la programación para resolverlos.</p>
+Mi trabajo se centra en:
 
-  <p>Mis proyectos son a la vez práctica y camino de aprendizaje: algunos muestran lo que ya sé hacer, otros reflejan el proceso de seguir aprendiendo. En todos hay dedicación, constancia y la curiosidad de mejorar cada día.</p>
+- Diseño y estabilización de flujos técnicos complejos
+- Integración y reconciliación de datos provenientes de múltiples fuentes externas
+- Desarrollo y mantenimiento de microservicios orientados a la calidad del dato
+- Automatización de procesos sensibles con especial atención a la trazabilidad y control de errores
+- Implementación de lógica de negocio robusta en entornos con requisitos técnicos y regulatorios estrictos
 
-  <p>Este GitHub es mi espacio para compartir ese recorrido. Bienvenido/a a echar un vistazo, colaborar o simplemente curiosear lo que voy construyendo.</p>
+Trabajo en backend y automatización como núcleo de mi responsabilidad, diseñando APIs y flujos de datos robustos, pero también participo activamente en el desarrollo de interfaces cuando la arquitectura lo requiere, asegurando coherencia entre lógica de negocio y experiencia de usuario.
 
-</div>
-
-
+Mi enfoque prioriza el análisis previo, la mantenibilidad a largo plazo y la fiabilidad operativa en ambos extremos del sistema.
 ---
+
+## 🧠 Technical Focus
+
+**Frontend**
+- React & Next.js
+- Interfaces accesibles y orientadas a la usabilidad estructural
+
+**Backend & Data**
+- Node.js / Express
+- APIs REST
+- Entornos SQL y NoSQL
+- Validación y enriquecimiento de datos externos
+
+**Engineering Approach**
+- Diseño de flujos técnicos con control de error explícito
+- Priorización de la estabilidad y trazabilidad
+- Uso de IA como herramienta de análisis y refactorización, manteniendo criterio técnico propio
 
 ## 🛠 Stack Principal y Tecnologías
 
@@ -51,7 +52,7 @@
 
 ## 🚀 Proyectos y Portfolio
 
-* [**Mi Portfolio Web**](https://portfolioclaramanzano.vercel.app/)
+* [**Mi Portfolio Web**](https://claramanzanocorona.dev/)
 
 ---
 
