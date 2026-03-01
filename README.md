@@ -15,6 +15,12 @@ Trabajo en backend y automatización como núcleo de mi responsabilidad, diseña
 Mi enfoque prioriza el análisis previo, la mantenibilidad a largo plazo y la fiabilidad operativa en ambos extremos del sistema.
 ---
 
+## 🧭 Product Development
+
+Además de mi trabajo en producción, desarrollo aplicaciones propias donde diseño y construyo el sistema completo: modelo de datos, arquitectura backend, lógica de negocio e interfaz.
+
+Trabajo estos proyectos con el mismo nivel de exigencia técnica que aplico en entornos profesionales, poniendo especial atención en la claridad conceptual, la coherencia entre capas y la mantenibilidad del sistema.
+
 ## 🧠 Technical Focus
 
 **Frontend**
