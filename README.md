@@ -60,6 +60,9 @@
 <div align="center">
   <img src="./metrics-languages.svg" alt="Top Languages" />
 </div>
+<div align="center">
+  <img src="./metrics-overview.svg" alt="GitHub overview" />
+</div>
 
 ### 🔗 Conexión
 
