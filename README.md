@@ -58,7 +58,7 @@
 ## 📊 Mi Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=claradevelope&layout=compact&theme=radical&hide_border=true" />
+  <img src="./metrics-languages.svg" alt="Top Languages" />
 </div>
 
 ### 🔗 Conexión
